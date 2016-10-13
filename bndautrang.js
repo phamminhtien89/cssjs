@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='https://lh3.googleusercontent.com/-ZQyniwZ7EkI/V_90G5E6azI/AAAAAAAAFQw/PN0Uuov-C4IYgKFe-zjKfdjmWW5AfX1kwCJoC/w425-h317-p/pc.jpg' width='500px'/><br/>Căn Hộ Bình Thạnh </a>. LH: Anh Tiến 0935592118. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
